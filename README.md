@@ -6,9 +6,9 @@
 
 ## Analysis and Challenges
 
-### ![Theatre_Outcomes_vs_Launch.png] (https://github.com/laurenneidhardt/Kickstarting_With_Excel/blob/main/Theatre_Outcomes_vs_Launch.png)
+### ![Theatre_Outcomes_vs_Launch.png](https://github.com/laurenneidhardt/Kickstarting_With_Excel/blob/main/Theatre_Outcomes_vs_Launch.png)
 
-### ![Outcomes_vs_Goals.png] (https://github.com/laurenneidhardt/Kickstarting_With_Excel/blob/main/Outcomes_vs_Goals.png)
+### ![Outcomes_vs_Goals.png](https://github.com/laurenneidhardt/Kickstarting_With_Excel/blob/main/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties encountered
 My main issues were getting the forumlas to work correctly
