@@ -16,8 +16,8 @@ My main issues were getting the forumlas to work correctly
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date? 
--   1.Campaigns are less successful at the end/beginning of the year. Possibly due to the holidays and the amount of free income people have 
--   2.Spring/Summer are the best times to run a fundraising campaign
+-   1. Campaigns are less successful at the end/beginning of the year. Possibly due to the holidays and the amount of free income people have 
+-   2. Spring/Summer are the best times to run a fundraising campaign
 
 - What can you conclude about the Outcomes based on Goals? 
 -   That the lower the goal, the more successful the campaign
